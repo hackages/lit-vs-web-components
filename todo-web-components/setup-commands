@@ -1,0 +1,4 @@
+mkdir todo-web-components
+cd todo-web-components
+npm init -y
+npm install --save-dev jest @babel/core @babel/preset-env babel-jest 
