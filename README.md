@@ -58,7 +58,7 @@ To run either example:
 
 1. Navigate to the desired folder (`todo-lit` or `todo-web-components`)
 2. Install dependencies: `npm install`
-3. Start the development server: `npm dev`
+3. Start the development server: `npm run dev`
 4. Run tests (for todo-lit): `npm test`
 
 
